@@ -1,0 +1,13 @@
+1. Given a string "PythonProgramming", extract the substring "Program" using slicing.
+
+2. Use slicing to reverse the string "Hello, World!" and print the reversed version.
+
+3. Suppose you have the string "abcdefg". Replace the character at index 2 with "Z" to get "abZdefg".
+
+4. You have the string "DataScience". Extract and print the substring containing the 2nd to the 5th characters ("ataS").
+
+5. You have two variables:
+	name = "Alice"
+	age = 25
+
+Format and print the string to display: "My name is Alice and I am 25 years old." using Python string formatting methods.
