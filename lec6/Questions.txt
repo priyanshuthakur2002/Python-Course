@@ -1,0 +1,13 @@
+1. Given a list of grades, add a new grade, remove a specific grade if it exists, and calculate the average.
+
+2. Given a list of tuples representing employees with names and ages, sort by age (and by name if ages are the same).
+
+3. Given an inventory list of tuples (item, quantity), add a new item or update an existing one. Remove the item if quantity is zero.
+
+4. Given a square matrix (list of lists), calculate the sum of the main diagonal elements.
+
+5. Given a tuple with two elements, swap their values. Then, create a list of tuples and swap each tuple’s elements.
+
+
+
+
