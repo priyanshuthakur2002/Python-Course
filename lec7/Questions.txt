@@ -1,0 +1,15 @@
+1. Create three sets: set_a, set_b, and set_c. Find the common elements between them and store the result in a new set called common_elements.
+
+2. Create a dictionary to count the occurrences of each word in the list words. For example:
+	words = ["apple", "banana", "apple", "orange", "banana", "apple"]
+
+3. Create a list called lst with some duplicate numbers. Use a set to count the unique elements in lst, and print the count.
+
+4. Create a dictionary where each key is a frozenset representing a unique combination of three numbers, and the value is the sum of those numbers.
+
+5. Create two sets, set1 and set2. Find the symmetric difference between them and store it in a set called sym_diff.
+
+
+
+
+
