@@ -1,0 +1,21 @@
+1. Write a program that takes a string input from the user and searches for the first vowel (a, e, i, o, u) in the string. If a vowel is found, print "First vowel found: <vowel>" and stop the loop. If no vowel is found, print "No vowels found".
+
+2. Write a program that takes an integer input from the user and counts the number of even and odd digits in the integer using a while loop. Skip counting if the digit is zero using the continue statement.
+
+3. Write a program that keeps taking integer input from the user until they enter a negative number. Use a while loop to add up all positive numbers entered. Stop the loop if the user enters a negative number and print the sum of positive numbers.
+
+4. Write a program that takes an integer input greater than 1 from the user and checks if it is a prime number. Use a for loop to check for factors, breaking if a factor is found, and use else to print that it’s prime if no factors are found.
+
+5. Write a program to print number pyramid:
+
+	1
+	2 2
+	3 3 3
+	4 4 4 4
+	5 5 5 5 5
+
+
+
+
+
+
