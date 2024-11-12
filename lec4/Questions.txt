@@ -1,0 +1,9 @@
+1. Write a program to check if a person is eligible to vote based on age (must be 18 or older) and nationality (must be "citizen").
+
+2. A student must score at least 50 in each of three subjects to pass. Write a program that takes the scores of three subjects as inputs and determines if the student has passed or failed.
+
+3. Write a program that checks if a number falls into one of three ranges (0–10, 11–20, or greater than 20) and whether the number is even or odd if it's greater than 20.
+
+4. Create a simple login system using a ternary operator to print either "Login successful!" or "Login failed."
+
+5. Write a program that checks if a number is in a specific range (10–20) and if it is odd or even.
