@@ -1,0 +1,15 @@
+1. Create a CSV file named students.csv with the following data:
+	Name,Roll No,Grade
+	John,101,A
+	Alice,102,B
+	Bob,103,A
+Then, write a Python program to read the file and print its contents row by row.
+
+2.  Read the contents of students.csv. Write a Python program to filter all students who scored grade "A" and save their details to a new file named top_students.csv.
+
+3. Write a Python program to:
+	1. Count the number of rows (excluding the header) in students.csv.
+	2. Count the total number of columns.
+	3. Print these counts.
+
+4. Read the file students.csv and increase all roll numbers by 100 (e.g., Roll No. 101 becomes 201). Save the modified data back to the same file.

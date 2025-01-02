@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity,Rating
+Laptop,Electronics,800,5,4.5
+Smartphone,Electronics,600,10,4.7
+Washing Machine,Home Appliances,300,2,4.2
+Microwave,Home Appliances,150,8,4.3
+Desk Chair,Furniture,120,12,4.1
+Notebook,Stationery,5,50,4.0
+Pen,Stationery,1,100,4.8
+Headphones,Electronics,50,15,4.6
+Refrigerator,Home Appliances,1000,1,4.9
+Table,Furniture,200,4,4.0
