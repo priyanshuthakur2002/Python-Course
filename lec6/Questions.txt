@@ -7,7 +7,3 @@
 4. Given a square matrix (list of lists), calculate the sum of the main diagonal elements.
 
 5. Given a tuple with two elements, swap their values. Then, create a list of tuples and swap each tuple’s elements.
-
-
-
-
