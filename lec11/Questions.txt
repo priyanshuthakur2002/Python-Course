@@ -1,0 +1,11 @@
+1. Write a class Employee with attributes name and salary.
+	- Add a constructor to initialize these attributes.
+	- Create an object and print the attributes.
+
+2. Design a BankAccount class with attributes like account_number, owner, and balance. Implement the following:
+	- Methods for depositing, withdrawing, and checking the balance.
+	- Implement getter and setter methods for balance
+
+3. Create an abstract class Shape with abstract methods for area() and perimeter(). Then:
+	- Implement subclasses Rectangle and Circle with specific attributes and implementations for area() and 	perimeter().
+	- Add a method to display the details of the shape (e.g., dimensions and computed area/perimeter).
