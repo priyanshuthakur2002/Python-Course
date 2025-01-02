@@ -1,0 +1,5 @@
+1. Write a Python program that takes a user's date of birth as input (in the format YYYY-MM-DD) and calculates their exact age in years, months, and days as of today.
+
+2. Write a Python function to solve a quadratic equation of the form ax^2+bx+c=0.The program should take the coefficients a,b and c as input and return the roots, handling both real and complex solutions.
+
+3. Write a program to calculate the number of days between two given dates. The dates should be entered in the format YYYY-MM-DD.
